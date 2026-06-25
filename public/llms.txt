@@ -1,0 +1,104 @@
+# Prestige Perfumes — Generative Engine Optimization Map
+
+> A luxury men's fragrance brand with a sophisticated and premium identity. The brand targets men who appreciate high-end, exclusive scents and embodies elegance, masculinity, and refinement. The overall vibe is upscale and aspirational, catering to connoisseurs of fine perfumery.
+
+---
+
+## Pages
+
+### בית
+https://prestige-perfumes-11e0edd6.zappy5.app
+היכנסו לעולם של אלגנטיות גברית עם בשמי יוקרה בלעדיים. חווית ניחוח neroli luxury perfumery שמגדירה מחדש תחכום. הצטרפו למועדון האנין עוד היום.
+
+### פילוסופיית ניחוח
+https://prestige-perfumes-11e0edd6.zappy5.app/fragrance-philosophy
+צללו אל הפילוסופיה שמאחורי כל בקבוק. מהשראת blueberry musk arabiyat ועד איזון מושלם, אנו יוצרים ניחוחות שמספרים סיפור של עידון גברי. גלו את הקסם.
+
+### סיפור המותג
+https://prestige-perfumes-11e0edd6.zappy5.app/brand-story
+מחזון נועז למציאות ריחנית: סיפור המותג שלנו משלב מסורת וחדשנות. בהשראת dior prestige la cure, אנו מעצבים מורשת של אלגנטיות נצחית. בואו להיות חלק מהסיפור.
+
+### צור קשר
+https://prestige-perfumes-11e0edd6.zappy5.app/contact
+מוכנים למצוא את הבושם המושלם? צרו קשר לייעוץ אישי מותאם. בין אם cuba prestige black או סקרנות לגבי neroli luxury perfumery, אנחנו כאן להדריך אתכם לשיא הריח.
+
+### Products
+https://prestige-perfumes-11e0edd6.zappy5.app/products
+המוצרים שלנו - Prestige Perfumes
+
+### Cart
+https://prestige-perfumes-11e0edd6.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://prestige-perfumes-11e0edd6.zappy5.app/checkout
+תשלום
+
+### Login
+https://prestige-perfumes-11e0edd6.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://prestige-perfumes-11e0edd6.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://prestige-perfumes-11e0edd6.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://prestige-perfumes-11e0edd6.zappy5.app/product/:slug
+פרטי המוצר - Prestige Perfumes
+
+### Category
+https://prestige-perfumes-11e0edd6.zappy5.app/category/:slug
+מוצרים - Prestige Perfumes
+
+### תודה שפנית אלינו
+https://prestige-perfumes-11e0edd6.zappy5.app/thank-you
+Prestige Perfumes - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://prestige-perfumes-11e0edd6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://prestige-perfumes-11e0edd6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://prestige-perfumes-11e0edd6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Prestige Perfumes
+A luxury men's fragrance brand with a sophisticated and premium identity. The brand targets men who appreciate high-end, exclusive scents and embodies elegance, masculinity, and refinement. The overall vibe is upscale and aspirational, catering to connoisseurs of fine perfumery.
+
+## Target Audience
+- גברים
+- אנשי מקצוע יוקרתיים
+- גברים מעודכנים באופנה
+
+## Industry
+Luxury Fragrance / Perfumery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://prestige-perfumes-11e0edd6.zappy5.app/sitemap.xml
+- Robots: https://prestige-perfumes-11e0edd6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://prestige-perfumes-11e0edd6.zappy5.app/llms-full.txt
+- Products (JSON): https://prestige-perfumes-11e0edd6.zappy5.app/products.json
+- Products (Google Merchant RSS): https://prestige-perfumes-11e0edd6.zappy5.app/product-feed.xml
